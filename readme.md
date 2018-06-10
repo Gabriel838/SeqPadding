@@ -1,6 +1,6 @@
 # Sequence Padding
 
-## Pad a varible length list with 0 (
+## Pad a varible length list with 0
 
 supporting list with max dims/depth >= 2
 
