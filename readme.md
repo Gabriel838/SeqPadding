@@ -2,7 +2,7 @@
 
 ## What it can do?
 
-* Pad a varible length list with 0
+* Pad a varible length list with 0s (or other specified values)
 * Return each sub-sequence's length
 * Supporting list with max dims/depth >= 2
 
