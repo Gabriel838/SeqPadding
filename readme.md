@@ -2,7 +2,7 @@
 
 ## Pad a varible length list with 0 and return each sub-sequence's length
 
-supporting list with max dims/depth >= 2
+Supporting list with max dims/depth >= 2
 
 Inputs:
 ```
