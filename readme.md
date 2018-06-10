@@ -1,9 +1,12 @@
 # Sequence Padding
 
-## Pad a varible length list with 0 and return each sub-sequence's length
+## What it can do?
 
-Supporting list with max dims/depth >= 2
+* Pad a varible length list with 0
+* Return each sub-sequence's length
+* Supporting list with max dims/depth >= 2
 
+## Usage
 Inputs:
 ```
 seq = [[[1, 2, 3], [4, 5, 6, 7]],
