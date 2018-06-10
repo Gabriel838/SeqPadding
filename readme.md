@@ -4,7 +4,7 @@
 
 * Pad a varible length list with 0s (or other specified values)
 * Return each sub-sequence's length
-* Supporting list with max dims/depth >= 2
+* Supporting list with dims/depth >= 2
 
 ## Usage
 Inputs:
