@@ -1,6 +1,6 @@
 # Sequence Padding
 
-## What can it do?
+## What is it?
 
 * Pad a varible length list with 0s (or other specified values)
 * Return each sub-sequence's length
