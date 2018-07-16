@@ -3,7 +3,7 @@
 ## What is it?
 
 * Pad a varible length list with 0s (or other specified values)
-* Return each sub-sequence's length
+* Return a flattened sub-sequences' lengths
 * Supporting list with dims/depth >= 2
 
 ## Usage
